@@ -1,2 +1,2 @@
-# loupyboy.github.io-SpaceKebab
+# Loupyboy.GitHub.io/SpaceKebab
 SpaceKebab — The best Kebab in the galaxy!
